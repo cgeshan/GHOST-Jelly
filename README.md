@@ -9,4 +9,4 @@ The goal of this project is to create a biomimetic jellyfish robot, which mimics
 
 # Team Members:
 
-   - [Connor Geshan](https://www.linkedin.com/in/connorgeshan/)
+   - [Connor Geshan](https://cgeshan.github.io)
